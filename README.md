@@ -1,4 +1,4 @@
-# Compiler Construction (CS 6353) at UTD (Spring 2021)
+# Compiler Construction (CS 6353)
 
 Personal Notes for the Class `Compiler Construction` at University of Texas at Dallas for the Spring 2021 Semester. Taught by Professor `Shiyi Wei`. 
 
