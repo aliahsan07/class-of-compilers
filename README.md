@@ -7,5 +7,6 @@ Personal Notes for the Class `Compiler Construction` at University of Texas at D
 | Lecture            |                   Description                   |
 | ------------------ | :---------------------------------------------: |
 | 1.     22 Jan 2021 | Why Compilers, Introduction to Lexical Analysis |
+| 2.     29 Jan 2021 | Regular Expressions, DFA, NFA                   |
 
 
