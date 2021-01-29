@@ -89,4 +89,4 @@ Algorithm: NFA to DFA with subset construction
 
 ## Summary
 
-**SUMMARY: Why do we care about Regular Expressions? For lexers, we**
+**SUMMARY: Why do we care about Regular Expressions? For lexers, we use RE to convert to DFA. RE defined lexers are widely used**
