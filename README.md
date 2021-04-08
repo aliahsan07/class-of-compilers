@@ -11,6 +11,6 @@ Personal Notes for the Class `Compiler Construction` at University of Texas at D
 | 3.     05 Feb 2021 | CFG and Top Down Parsers                        |
 | 4.     12 Feb 2021 | Top Down Parsers (Recursive and LL(1))          |
 | 5.     26 Feb 2021 | Bottom Up Parsing and Semantic Analysis         |
-
-
+| 6.     05 Mar 2021 | Type Checking                                   |
+| 7.     26 Mar 2021 | Runtime environments, Stack Machines and MIPS   |
 
